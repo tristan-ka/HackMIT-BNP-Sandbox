@@ -32,6 +32,18 @@ There are two independant tools available through the Open Bank Project API:
   <br>
 </h1>
 
+Here is the list of index of the elastic search database:
+
+Here is the list of index of the elastic search DB:
+     
+*irb-declared-products, irb-sme-transactions, irb-transactions, irb-contracts, irb-taxes, irb-charges, irb-revenues, irb-individual-clients, irb-markets, irb-sme-client, irb-assets, irb-sme-contracts
+
+*bow-declared-products, bow-sme-transactions, bow-transactions, bow-contracts, bow-taxes, bow-charges, bow-revenues, bow-
+
+* individual-clients, bow-markets, bow-sme-client, bow-assets, bow-sme-contracts
+
+* 20170608-markets, 20170608-taxes, 20170608-charges
+
 __Warning__ - Please note that the two tools are independant. An idea of subject could be to feed the banking environment with the data base to create an App.
 
 
