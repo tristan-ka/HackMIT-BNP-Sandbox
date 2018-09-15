@@ -28,7 +28,7 @@ There are two independant tools available through the Open Bank Project API:
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="img/data_model.png" alt="Markdownify" width="400"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="img/data_model.png" alt="Markdownify" width="500"></a>
   <br>
 </h1>
 
@@ -58,4 +58,4 @@ Available Code
 --------------
 
 
-
+
